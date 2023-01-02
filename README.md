@@ -1,4 +1,4 @@
-# Ini adlaah hasil latihan Slicing UI design dengan Create React App dan Tailwindcss
+# Ini adalah hasil latihan Slicing UI design dengan Create React App dan Tailwindcss
 
 1. Clone repo ini
 2. Ketikan pada terminal ```$yarn install```
