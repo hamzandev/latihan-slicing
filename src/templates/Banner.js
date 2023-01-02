@@ -15,7 +15,7 @@ function Wrapper() {
               Welcome to HamzanDev
             </h1>
             <span className="text-slate-600 lg:text-base text-sm text-center lg:text-end px-3 py-2">
-              Pilihan terbaik untuk memulai pengalaman Belajar Kamu!
+              Pilihan terbaik untuk memulai pengalaman Belajar Kamu!!!
             </span>
             <Link to="/register" className="lg:text-end text-center">
               <button className="bg-gradient-to-br rounded-lg from-sky-500 to-pink-500 px-6 my-2 hover:from-pink-500 hover:to-sky-500 hover:shadow-lg transition-all duration-100 lg:mr-2 hover:scale-105 py-3 text-white/80">
