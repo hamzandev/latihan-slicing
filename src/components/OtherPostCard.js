@@ -10,7 +10,7 @@ function OtherPostCard() {
           Lorem ipsum dolor sit amet consectetur adipisicing.
         </h3>
         <Link
-          to={"/post/128737"}
+          to={"/blog/posts/128737"}
           className="text-gray-50 text-sm mt-3 rounded bg-gradient-to-tr from-blue-500 to-indigo-500 w-max px-3 py-1"
         >
           Read more

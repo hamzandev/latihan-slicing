@@ -35,7 +35,7 @@ function Register() {
           type="submit"
           className="bg-gradient-to-br text-white/80 py-2 rounded-lg from-sky-500 to bg-indigo-500"
         >
-          Login
+          Register Now
         </button>
       </form>
     </div>
